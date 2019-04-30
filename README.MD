@@ -1,4 +1,5 @@
-Trained Model from: https://github.com/TreB1eN/InsightFace_Pytorch
+Using architecture ArcFace https://arxiv.org/abs/1801.07698
+PreTrained Model from: https://github.com/TreB1eN/InsightFace_Pytorch
 
 Examples
 
